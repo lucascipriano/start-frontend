@@ -1,0 +1,17 @@
+{
+  "name": "start-project-frontend",
+  "version": "1.0.0",
+  "description": "Front-end com mais facilidade",
+  "main": "index.js",
+  "author": "Lucas Cipriano",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.51.0"
+  }
+}
